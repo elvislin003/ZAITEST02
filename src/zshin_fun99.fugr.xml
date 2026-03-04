@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_FUGR" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <AREAT>functon group 99</AREAT>
+   <INCLUDES>
+    <SOBJ_NAME>LZSHIN_FUN99F01</SOBJ_NAME>
+    <SOBJ_NAME>LZSHIN_FUN99TOP</SOBJ_NAME>
+    <SOBJ_NAME>SAPLZSHIN_FUN99</SOBJ_NAME>
+   </INCLUDES>
+   <FUNCTIONS>
+    <item>
+     <FUNCNAME>ZFUNCTION01</FUNCNAME>
+     <SHORT_TEXT>function</SHORT_TEXT>
+    </item>
+    <item>
+     <FUNCNAME>ZPROGRAM01</FUNCNAME>
+     <SHORT_TEXT>ZPROGRAM01</SHORT_TEXT>
+    </item>
+   </FUNCTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
